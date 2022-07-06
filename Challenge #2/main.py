@@ -1,0 +1,1 @@
+def checker(sentence):pass
